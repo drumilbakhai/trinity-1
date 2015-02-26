@@ -6,18 +6,18 @@
         id        = "com.phonegap.hello"
         version   = "1.0.0">
 
-    <name>Trinity 15</name>
+    <name>DJ Trinity</name>
 
     <description>
-        Official Application of DJSCE Trinity Fest.
+        Official Application of DJSCE Trinity Festival.
     </description>
 
-    <author href="http://pushwoosh.com" email="support@pushwoosh.com">
+    <author href="" email="ashudrum1@gmail.com">
         Trinity
     </author>
 
     <!-- current version of PhoneGap -->
-    <preference name="phonegap-version" value="3.5.0" />
+    <preference name="phonegap-version" value="3.6.3" />
 
     <!--
         Enable individual API permissions here.
@@ -56,7 +56,7 @@
         <gap:plugin name="Example" />
         A list of available plugins are available at https://build.phonegap.com/docs/plugins
     -->
-    <gap:plugin name="com.pushwoosh.plugins.pushwoosh" version="3.0.2" />
+    <gap:plugin name="com.pushwoosh.plugins.pushwoosh" version="3.4.2" />
 
 
     <!-- Define app icon for each platform. -->
