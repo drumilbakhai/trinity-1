@@ -57,7 +57,7 @@ function registerPushwooshAndroid() {
 		},
 		function(status)
 		{
-			alert("failed to register: " +  status);
+			//alert("failed to register: " +  status);
 		    console.warn(JSON.stringify(['failed to register ', status]));
 		}
 	);
